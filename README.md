@@ -43,7 +43,7 @@ I'm a passionate developer with experience in:
 - **Design Patterns**: Factory, Command, Facade, Strategy, Builder
 
 ## Get in Touch 📬
-- **GitHub**: [https://github.com/yourprofile](https://github.com/PLM-18)
-- **Email**: [Philemon](u23629810@tuks.co.za)
+- **GitHub**: [https://github.com/PLM-18](https://github.com/PLM-18)
+- **Email**: [PLM-18](u23629810@tuks.co.za)
 - **LinkedIn**: `NOT YET`
 
