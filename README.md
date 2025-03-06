@@ -44,6 +44,6 @@ I'm a passionate developer with experience in:
 
 ## Get in Touch 📬
 - **GitHub**: [https://github.com/PLM-18](https://github.com/PLM-18)
-- **Email**: [PLM-18](u23629810@tuks.co.za)
+- **Email**: [PLM-18](mailto:u23629810@tuks.co.za)
 - **LinkedIn**: `NOT YET`
 
