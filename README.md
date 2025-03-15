@@ -51,5 +51,5 @@ I'm a passionate developer with experience in:
 
 ## Get in Touch 📬
 - **GitHub**: [PLM-18](https://github.com/PLM-18)
-- **Email**: [PLM-18](mailto:u23629810@tuks.co.za)
+- **Email**: `...`
 - **LinkedIn**: `...`
