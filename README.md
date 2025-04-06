@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-I'm a passionate developer with experience in:
+I'm a passionate student with experience in:
 - **Low-level programming**: Yasm Assembly
 - **Systems programming**: C++
 - **Concurrency and parallel computing**: Java (Concurrency-related topics)
