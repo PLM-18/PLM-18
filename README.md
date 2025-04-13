@@ -4,7 +4,7 @@
 - **Low-level**: Yasm Assembly
 - **Systems Programming**: C++, C
 - **Concurrency & Backend**: Java, Go, C# (.NET Core)
-- **Frontend**: React, Ionic
+- **Frontend**: React, Ionic, Vue, Angular
 - **Web & API Dev**: PHP (Laravel), Node.js
 - **Database**: Custom NoSQL (mpdbd), SQL (EF Core)
 
