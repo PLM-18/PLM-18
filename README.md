@@ -10,10 +10,6 @@
 
 ## Projects I've Worked On 🚀
 
-- **City Simulation**: Utilities (Power, Water, Sewage) with design patterns like Factory, Command, Facade, and Strategy based transportation.
-
-- **NoSQL Database Daemon**: Built in Go with support for data storage, indexing, query processing, and transactions.
-
 - **React Task Manager**: Drag & drop task UI with priority tags, undo, and trash bin logic.
 
 - **Appointment Server**: Telnet based scheduling server in Go using ANSI formatting and file based DB.
