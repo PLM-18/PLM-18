@@ -16,3 +16,5 @@
 - **Document Editor**: Open source modular editor supporting bold, italics, and underline with command execution logic.
 
 - **.NET Core APIs**: RESTful API development using C#, with authentication, role based access, and async ops.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PLM-18&layout=compact&theme=transparent)](https://github.com/PLM-18/github-readme-stats)
