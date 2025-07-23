@@ -7,7 +7,7 @@
 - **Frontend**: React, Ionic, Vue, Angular
 - **Web & API Dev**: PHP (Laravel), Node.js
 
-## Projects I've Worked On 🚀
+## Projects I've Worked On
 
 - **React Task Manager**: Drag & drop task UI with priority tags, undo, and trash bin logic.
 
